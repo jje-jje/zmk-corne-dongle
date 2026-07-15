@@ -48,7 +48,7 @@ layers:
   - {t: '$$mdi:keyboard-space$$', h: Fn}
   - {t: '$$mdi:keyboard-return$$', h: Fn}
   - SYMBOL
-  - $$mdi:apple-keyboard-option$$
+  - Gui+Sft+S
   NUMBER:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '1', s: '!'}
@@ -72,11 +72,11 @@ layers:
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
+  - HOME
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-up-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
-  - HOME
   - PG UP
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -86,11 +86,11 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:volume-off$$
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
   - END
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - PG DN
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
@@ -99,7 +99,7 @@ layers:
   - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   SYMBOL:
-  - {t: '$$mdi:transfer$$', type: trans}
+  - '~'
   - '!'
   - '@'
   - '#'
